@@ -12,7 +12,7 @@ It started with Cooper: I wanted to know what owners of diabetic dogs actually d
 
 > [!NOTE]
 > **📄 Paper**
-> [Identifying who reports a care practice in online discussions of canine diabetes](https://doi.org/10.5281/zenodo.24439010)
+> [Speaker-level care-practice attribution in canine-diabetes discussions: a preregistered single-annotator evaluation of a language model](https://doi.org/10.5281/zenodo.24439010)
 > Preprint · preregistered at [OSF j4za5](https://osf.io/j4za5/)
 
 > [!TIP]
