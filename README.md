@@ -28,4 +28,6 @@ It started with Cooper: I wanted to know what owners of diabetic dogs actually d
 <p align="center">
 <img src="cooper.png" alt="Sunny with his Labrador, Cooper" width="260"><br>
 <sub><b>Cooper</b>, my Labrador, and the reason I started this work.</sub>
+<br><br>
+<a href="https://firstlightdog.com"><img src="https://img.shields.io/badge/firstlightdog.com-diabetic%20dog%20care%20guides-E8A33D" alt="firstlightdog.com"></a>
 </p>
