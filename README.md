@@ -10,6 +10,19 @@ It started with Cooper: I wanted to know what owners of diabetic dogs actually d
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VpPnlZ8AAAAJ)
 [![About me](https://img.shields.io/badge/About%20me-sunny.firstlightdog.com-E8A33D)](https://sunny.firstlightdog.com)
 
+### What I work on
+
+I work with:
+- **AI and LLMs**: data extraction, annotation and evaluation
+- **AI agents**: multi-agent workflows and automation
+- **Web crawling and data pipelines**
+- **Cloudflare**: Workers, Pages, caching, edge analytics
+- **Optimisation**: site speed, caching, SEO and AI-search visibility
+- **Servers**: Docker, Oracle Cloud, load balancing, monitoring and backups
+- **Security**: server hardening and attack research
+
+Right now I study how well LLMs can analyse large sets of public posts, checking their output against human judgement. My first study, on how dog owners talk about diabetes care online, started because of my Labrador, Cooper.
+
 > [!NOTE]
 > **📄 Paper**
 > [Speaker-level care-practice attribution in canine-diabetes discussions: a preregistered single-annotator evaluation of a language model](https://doi.org/10.5281/zenodo.24439010)
@@ -27,7 +40,8 @@ It started with Cooper: I wanted to know what owners of diabetic dogs actually d
 
 <p align="center">
 <img src="cooper.png" alt="Sunny with his Labrador, Cooper" width="260"><br>
-<sub><b>Cooper</b>, my Labrador, and the reason I started this work.</sub>
+<sub><b>Cooper</b>, my Labrador, and the reason I started this work.</sub><br><br>
+<i>The world would be a better place if people were the people their dogs think they are.</i>
 <br><br>
 <a href="https://firstlightdog.com"><img src="https://img.shields.io/badge/firstlightdog.com-diabetic%20dog%20care%20guides-E8A33D" alt="firstlightdog.com"></a>
 </p>
