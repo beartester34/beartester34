@@ -23,22 +23,12 @@ It started with Cooper: I wanted to know what owners of diabetic dogs actually d
 
 I build with AI coding agents and check every result myself. I spend a lot of time reading the logs of traffic leaving my servers.
 
-**Open to** remote contract work in AI evaluation, LLM-judge audits, LLM red-teaming, security research and data pipelines.
+**Open to** remote contract work in AI evaluation, LLM-judge audits, LLM red-teaming, security research and data pipelines, plus annotation swaps, preprint review and open research on LLM evaluation and health data.
 
 > [!NOTE]
 > **📄 Paper**
 > [Speaker-level care-practice attribution in canine-diabetes discussions: a preregistered single-annotator evaluation of a language model](https://doi.org/10.5281/zenodo.24439010)
 > Preprint · preregistered at [OSF j4za5](https://osf.io/j4za5/)
-
-> [!TIP]
-> **🤝 Open to**
-> - Annotation swaps and second-coder help
-> - Preprint review
-> - Open research projects on LLM evaluation and health data
-
-> [!IMPORTANT]
-> **🛠️ How I work**
-> I build reproducible crawling and LLM extraction pipelines with AI coding agents, with exact-quote checks on every model output. Most code is private. Ask if you'd like to see something.
 
 <p align="center">
 <img src="cooper.png" alt="Sunny with his Labrador, Cooper" width="260"><br>
