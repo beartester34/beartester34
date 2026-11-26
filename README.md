@@ -9,6 +9,7 @@ It started with Cooper: I wanted to know what owners of diabetic dogs actually d
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--2794--9388-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-2794-9388)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VpPnlZ8AAAAJ)
 [![About me](https://img.shields.io/badge/About%20me-sunny.firstlightdog.com-E8A33D)](https://sunny.firstlightdog.com)
+[![Contact me](https://img.shields.io/badge/Contact%20me-say%20hi-1E5B55)](https://sunny.firstlightdog.com/contact/)
 
 ### What I work on
 
