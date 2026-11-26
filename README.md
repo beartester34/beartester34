@@ -11,29 +11,19 @@ It started with Cooper: I wanted to know what owners of diabetic dogs actually d
 [![About me](https://img.shields.io/badge/About%20me-sunny.firstlightdog.com-E8A33D)](https://sunny.firstlightdog.com)
 [![Contact me](https://img.shields.io/badge/Contact%20me-say%20hi-1E5B55)](https://sunny.firstlightdog.com/contact/)
 
-### What I work on
+### What I do
+- **Open source:** I find and fix bugs in LLM-evaluation and research libraries, including the UK AI Security Institute's control-arena. [See all my contributions →](CONTRIBUTIONS.md)
+- **Research:** [preregistered preprint](https://doi.org/10.5281/zenodo.24439010) comparing an LLM with a human annotator · peer reviewer for JMIR
+- **Security:** I run an SSH and web honeypot and read what attackers actually type
 
-I work with:
-- **AI and LLMs**: data extraction, annotation and evaluation
-- **AI agents**: multi-agent workflows and automation
-- **Web crawling and data pipelines**
-- **Cloudflare**: Workers, Pages, caching, edge analytics
-- **Optimisation**: site speed, caching, SEO and AI-search visibility
-- **Servers**: Docker, Oracle Cloud, load balancing, monitoring and backups
-- **Security**: server hardening and attack research
+### What I run
+- **Web / edge:** Next.js (fan), Astro · Cloudflare Workers, Pages, D1, KV, Turnstile
+- **Servers:** Oracle Cloud ARM · Docker · Caddy · Envoy · Redis · Netdata
+- **Data:** Python, large web crawls and pipelines · restic and rclone backups
 
-Right now I study how well LLMs can analyse large sets of public posts, checking their output against human judgement. My first study, on how dog owners talk about diabetes care online, started because of my Labrador, Cooper.
+I build with AI coding agents and check every result myself. I spend a lot of time reading the logs of traffic leaving my servers.
 
-### Selected open-source fixes
-| Project | Area | Fix |
-|---|---|---|
-| [UK AISI control-arena](https://github.com/UKGovernmentBEIS/control-arena/pull/970) | AI safety | evaluation bug fixes |
-| [DeepEval](https://github.com/confident-ai/deepeval/pull/3773) | LLM evaluation | judge accepted off-scale scores |
-| [TruLens](https://github.com/truera/trulens/pull/3105) | LLM evaluation | agreement grade read on wrong scale |
-| [W&B Weave](https://github.com/wandb/weave/pull/8115) | ML tooling | scorer crash on empty output |
-| [sbi](https://github.com/sbi-dev/sbi/pull/2226) | Statistics | z-scoring bug in independent priors |
-
-Open to remote work in AI evaluation, security research, data pipelines and web infrastructure.
+**Open to** remote contract work in AI evaluation, LLM-judge audits, LLM red-teaming, security research and data pipelines.
 
 > [!NOTE]
 > **📄 Paper**
