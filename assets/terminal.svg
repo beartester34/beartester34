@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="193" viewBox="0 0 620 193" role="img" aria-labelledby="title desc">
+  <title id="title">Sunny Raghvendra Singh</title>
+  <desc id="desc">Freelance Full-Stack Web Developer with 16 years of experience. Applied AI and LLM Evaluation. India.</desc>
+  <rect x=".75" y=".75" width="618.5" height="191.5" rx="12" fill="#101923" stroke="#3b4958" stroke-width="1.5"/>
+  <path d="M1 39.5h618" stroke="#334353"/>
+  <g fill="#768798"><circle cx="21" cy="20" r="4"/><circle cx="35" cy="20" r="4"/><circle cx="49" cy="20" r="4"/></g>
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14">
+    <text x="67" y="25" fill="#bfd0de">sunny@github</text>
+    <text x="598" y="25" fill="#9eafbe" text-anchor="end">~/profile</text>
+    <text x="23" y="69" fill="#8fe3c4" font-size="17">$ whoami</text>
+  </g>
+  <g font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+    <text x="22" y="111" fill="#f4f7fa" font-weight="700" font-size="36">Sunny Raghvendra Singh</text>
+    <text x="24" y="147" fill="#dce7ed" font-size="22">Freelance Full-Stack Web Developer · 16 years</text>
+    <text x="24" y="174" fill="#a8c8c7" font-size="20">Applied AI &amp; LLM Evaluation · India</text>
+  </g>
+</svg>

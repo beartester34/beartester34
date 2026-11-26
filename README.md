@@ -1,39 +1,24 @@
-## Hi, I'm Sunny Raghvendra Singh
+![Sunny Raghvendra Singh — Freelance Full-Stack Web Developer, 16 years, Applied AI & LLM Evaluation, India](assets/terminal.svg)
 
-Independent researcher in **India**.
+[![Google Scholar](assets/scholar.svg)](https://scholar.google.com/citations?user=VpPnlZ8AAAAJ) [![ORCID](assets/orcid.svg)](https://orcid.org/0009-0000-2794-9388) [![About me](assets/about.svg)](https://sunny.firstlightdog.com) [![Contact](assets/contact.svg)](https://sunny.firstlightdog.com/contact/)
 
-I study how far **LLM coding can be trusted against human judgement**, and I build pipelines that pull structured data out of online text and public documents.
+I’m Sunny Raghvendra Singh, a freelance full-stack web developer in India. I love the modern web and the tools it gives us.
 
-It started with Cooper: I wanted to know what owners of diabetic dogs actually do and ask, so I built the tools to find out.
+**Web & data** — I build websites, work on technical SEO and develop crawlers that turn web content into structured datasets.
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--2794--9388-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-2794-9388)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VpPnlZ8AAAAJ)
-[![About me](https://img.shields.io/badge/About%20me-sunny.firstlightdog.com-E8A33D)](https://sunny.firstlightdog.com)
-[![Contact me](https://img.shields.io/badge/Contact%20me-say%20hi-1E5B55)](https://sunny.firstlightdog.com/contact/)
+**Infrastructure & security** — I build server monitoring tools and analyse HTTP honeypot logs and recorded SSH sessions to understand attacker behaviour.
 
-### What I do
-- **Open source:** I find and fix bugs in LLM-evaluation and research libraries, including the UK AI Security Institute's control-arena. [See all my contributions →](CONTRIBUTIONS.md)
-- **Research:** [preregistered preprint](https://doi.org/10.5281/zenodo.24439010) comparing an LLM with a human annotator · peer reviewer for JMIR
-- **Security:** I run an SSH and web honeypot and read what attackers actually type
+**Applied AI** — I test what language models extract correctly, what they misattribute and what they miss.
 
-### What I run
-- **Web / edge:** Next.js (fan), Astro · Cloudflare Workers, Pages, D1, KV, Turnstile
-- **Servers:** Oracle Cloud ARM · Docker · Caddy · Envoy · Redis · Netdata
-- **Data:** Python, large web crawls and pipelines · restic and rclone backups
+[Open-source contributions →](CONTRIBUTIONS.md) · [CV (JSON)](resume.json)
 
-I build with AI coding agents and check every result myself. I spend a lot of time reading the logs of traffic leaving my servers.
+**I’m open to remote contract work** in full-stack web development, technical SEO, data engineering and applied AI. I also welcome research collaborations on LLM evaluation and threat analysis. [Get in touch →](https://sunny.firstlightdog.com/contact/)
 
-**Open to** remote contract work in AI evaluation, LLM-judge audits, LLM red-teaming, security research and data pipelines, plus annotation swaps, preprint review and open research on LLM evaluation and health data.
+### How Cooper led me into AI research
 
-> [!NOTE]
-> **📄 Paper**
-> [Speaker-level care-practice attribution in canine-diabetes discussions: a preregistered single-annotator evaluation of a language model](https://doi.org/10.5281/zenodo.24439010)
-> Preprint · preregistered at [OSF j4za5](https://osf.io/j4za5/)
+When my Labrador, Cooper, was diagnosed with diabetes, I built [First Light Dog](https://firstlightdog.com/) for other owners in India. Reading their discussions led to my [first preprint](https://doi.org/10.5281/zenodo.24439010), where I tested whether a language model could tell which owner reported doing what.
 
 <p align="center">
-<img src="cooper.png" alt="Sunny with his Labrador, Cooper" width="260"><br>
-<sub><b>Cooper</b>, my Labrador, and the reason I started this work.</sub><br><br>
-<i>The world would be a better place if people were the people their dogs think they are.</i>
-<br><br>
-<a href="https://firstlightdog.com"><img src="https://img.shields.io/badge/firstlightdog.com-diabetic%20dog%20care%20guides-E8A33D" alt="firstlightdog.com"></a>
+  <img src="cooper.png" alt="Sunny with his Labrador, Cooper" width="240"><br>
+  <sub>With Cooper, the reason I started First Light Dog.</sub>
 </p>

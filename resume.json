@@ -1,0 +1,137 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/jsonresume.org/master/packages/schema/schema.json",
+  "basics": {
+    "name": "Sunny Raghvendra Singh",
+    "label": "Freelance Full-Stack Web Developer | Applied AI & LLM Evaluation",
+    "location": {
+      "countryCode": "IN"
+    },
+    "url": "https://sunny.firstlightdog.com/",
+    "summary": "I have 16 years of experience building websites for clients. I work across full-stack development, technical SEO and infrastructure reliability. I build crawlers and data pipelines for research, analyse threat activity from honeypot logs, and evaluate how accurately language models extract information from text.",
+    "profiles": [
+      {
+        "network": "Contact",
+        "url": "https://sunny.firstlightdog.com/contact/"
+      },
+      {
+        "network": "GitHub",
+        "username": "beartester34",
+        "url": "https://github.com/beartester34"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0000-2794-9388",
+        "url": "https://orcid.org/0009-0000-2794-9388"
+      },
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=VpPnlZ8AAAAJ"
+      }
+    ]
+  },
+  "objective": "Open to remote contracts in full-stack web development, technical SEO, data engineering and applied AI. I welcome research collaborations on LLM evaluation and threat analysis.",
+  "work": [
+    {
+      "name": "Self-employed",
+      "position": "Freelance Full-Stack Web Developer",
+      "summary": "Build and maintain websites and web applications, from the user interface through deployment and monitoring.",
+      "highlights": [
+        "Develop with Next.js and Astro. Implement structured data, sitemaps, redirects and indexing rules, and verify what search crawlers receive.",
+        "Use Cloudflare edge caching and build monitoring tools for servers and web applications. Analyse HTTP honeypot requests and recorded SSH sessions to study attacker behaviour."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "area": "Electrical Engineering",
+      "studyType": "Undergraduate degree"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Full-stack development and search",
+      "keywords": [
+        "Next.js",
+        "Astro",
+        "TypeScript",
+        "technical SEO",
+        "structured data",
+        "Cloudflare"
+      ]
+    },
+    {
+      "name": "Data engineering",
+      "keywords": [
+        "Python",
+        "web crawling",
+        "resumable data collection",
+        "document processing",
+        "structured data extraction"
+      ]
+    },
+    {
+      "name": "Applied AI",
+      "keywords": [
+        "LLM evaluation",
+        "annotation design",
+        "human reference labels",
+        "precision and recall",
+        "multi-agent workflows"
+      ]
+    },
+    {
+      "name": "Infrastructure and threat analysis",
+      "keywords": [
+        "Linux",
+        "Go",
+        "infrastructure monitoring",
+        "outage recovery",
+        "HTTP honeypot analysis",
+        "SSH session analysis"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Open-source LLM evaluation tools",
+      "url": "https://github.com/beartester34/beartester34/blob/main/CONTRIBUTIONS.md",
+      "description": "Investigated scoring errors in open-source evaluation libraries and submitted fixes with regression tests.",
+      "highlights": [
+        "In ControlArena, an invalid score of 11/10 could be recorded as a perfect 10. In DeepEval, a strict binary judge could accept scores outside the allowed range."
+      ]
+    },
+    {
+      "name": "Server and application monitoring",
+      "description": "Built a Go monitoring agent that buffers observations when the network drops and replays them after reconnection.",
+      "highlights": [
+        "In a local ten-minute outage test across five targets, the recovered data covered every five-minute reporting interval."
+      ]
+    },
+    {
+      "name": "First Light Dog",
+      "url": "https://firstlightdog.com/",
+      "description": "Built a free resource for owners of diabetic dogs in India after my Labrador, Cooper, was diagnosed. Owners’ accounts inspired my study of whether an LLM could identify who reported a care practice.",
+      "highlights": [
+        "People for Animals India published my guides to canine diabetes and glucose meters for dogs."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Speaker-level care-practice attribution in canine-diabetes discussions: a preregistered single-annotator evaluation of a language model",
+      "publisher": "Zenodo (preprint)",
+      "releaseDate": "2026-11-22",
+      "url": "https://doi.org/10.5281/zenodo.24439010",
+      "summary": "I annotated 100 discussion openings and locked the labels before running the model. In the 98 openings with usable model responses, it recovered 18 of the 106 care-practice reports I had identified."
+    },
+    {
+      "name": "Owner guides on canine diabetes and glucose meters",
+      "publisher": "People for Animals India",
+      "url": "https://peopleforanimalsindia.org/pet-health",
+      "summary": "Two owner guides for readers in India."
+    }
+  ],
+  "meta": {
+    "language": "en-IN"
+  }
+}
