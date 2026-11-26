@@ -23,6 +23,17 @@ I work with:
 
 Right now I study how well LLMs can analyse large sets of public posts, checking their output against human judgement. My first study, on how dog owners talk about diabetes care online, started because of my Labrador, Cooper.
 
+### Selected open-source fixes
+| Project | Area | Fix |
+|---|---|---|
+| [UK AISI control-arena](https://github.com/UKGovernmentBEIS/control-arena/pull/970) | AI safety | evaluation bug fixes |
+| [DeepEval](https://github.com/confident-ai/deepeval/pull/3773) | LLM evaluation | judge accepted off-scale scores |
+| [TruLens](https://github.com/truera/trulens/pull/3105) | LLM evaluation | agreement grade read on wrong scale |
+| [W&B Weave](https://github.com/wandb/weave/pull/8115) | ML tooling | scorer crash on empty output |
+| [sbi](https://github.com/sbi-dev/sbi/pull/2226) | Statistics | z-scoring bug in independent priors |
+
+Open to remote work in AI evaluation, security research, data pipelines and web infrastructure.
+
 > [!NOTE]
 > **📄 Paper**
 > [Speaker-level care-practice attribution in canine-diabetes discussions: a preregistered single-annotator evaluation of a language model](https://doi.org/10.5281/zenodo.24439010)
