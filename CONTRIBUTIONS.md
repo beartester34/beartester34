@@ -11,6 +11,8 @@ Bugs I found and fixes I sent to LLM-evaluation, AI-safety and research librarie
 | Ragas | Test-set generation | Single-hop questions all came from the first document | [#3166](https://github.com/vibrantlabsai/ragas/pull/3166) | Under review |
 | TruLens | LLM evaluation | Agreement grade read on the wrong scale | [#3105](https://github.com/truera/trulens/pull/3105) | Under review |
 | TruLens | LLM evaluation | Agreement prompt fix | [#3107](https://github.com/truera/trulens/pull/3107) | Under review |
+| TruLens | LLM evaluation | Agreement check asked for its reference answer without the question | [#3111](https://github.com/truera/trulens/pull/3111) | Under review |
+| TruLens | LLM evaluation | Groundedness dropped an answer that was just a number | [#3114](https://github.com/truera/trulens/pull/3114) | Under review |
 | Opik | LLM evaluation | G-Eval reason parsing | [#9777](https://github.com/comet-ml/opik/pull/9777) | Under review |
 | LangChain openevals | LLM evaluation | JSON-match rubric schema missing required fields | [#330](https://github.com/langchain-ai/openevals/pull/330) | Under review |
 | W&B Weave | ML tooling | Summarisation scorer crashed on empty output | [#8115](https://github.com/wandb/weave/pull/8115) | Under review |
